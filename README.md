@@ -1,2 +1,2 @@
 # Replit-projects
-Bunch of project done with replit
+A bunch of Python intermediate projects done with replit
